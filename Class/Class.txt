@@ -1,0 +1,12 @@
+Class_Name	Seat	Room_number
+Child	40	003
+One	40	101
+Two	35	102
+Three	35	103
+Four	35	104
+Five	35	105
+Six	30	206
+Seven 	30	207
+Eight	25	208
+Nine	25	209
+Ten	25	210

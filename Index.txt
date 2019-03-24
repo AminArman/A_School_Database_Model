@@ -1,0 +1,37 @@
+1. Introduction:4
+2. Schemas with attribute:4
+3.DDL and Snapshots:5
+3.1. Classroom (Room_Number, Capacity)5
+3.2. Class (Class_Name, Seat, Room_Number)6
+3.3. Subject (Sub_ID, Title, Class_Name)8
+3.4. Teacher (ID, Name, Salary)9
+3.5. Section (Sub_ID, Sec_ID, Year, Room_Number, Routine)11
+3.6. Teaches (ID, Sub_ID, Sec_ID, Year)12
+3.7. Student (ID, Name, Class_Name, DOB)14
+3.8. Routine (Routine_ID, Day, Start_Hr, End_Hr)15
+4. Schema Diagram:17
+5. Query and SQL Statements: 18
+5.1 Natural join:18
+5.2 Cross Product:18
+5.3 Outer join:19
+5.4 Join (with using  on):19
+5.5 Grouping and Ordering:21
+5.6 Having clauses:22
+5.7 Nested Sub Query(some, all, exists, in):23
+5.8 Aggregation(count, avg, max, min, sum):25
+5.9 Set Operation(union, intersect, minus): 28
+5.10 Modification(insert, delete, update):30
+6. Desired Normal Forms in the College Database32
+6.1 First Normal Form (1NF):32
+6.2 Boyce–Codd Normal Form (BCNF):32
+6.3 Third Normal Form (3NF):33
+7. Non-trivial Functional Dependencies34
+7.1. Classroom (Room_Number, Capacity)34 
+7.2. Class (Class_Name, Seat, Room_Number)34
+7.3. Subject (Sub_ID, Title, Class_Name)34
+7.4. Teacher (ID, Name, Salary)34
+7.5. Section (Sub_ID, Sec_ID, Year, Room_Number, Routine)35
+7.6. Teaches (ID, Sub_ID, Sec_ID, Year)35
+7.7. Student (ID, Name, Class_Name, DOB)35
+7.8. Routine (Routine_ID, Day, Start_Hr, End_Hr)36
+8. Discussions36

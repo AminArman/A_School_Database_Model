@@ -1,0 +1,10 @@
+ID	Name	Salary
+101	Md. Samiul Islam	30000
+102	Mrs. Islam	28000
+405	Md. Sahid Islam	25000
+408	Al-Amin Hossian	25000
+409	Md. Saifur Rahman	23000
+501	Md. Nazmul Islam	22000
+503	Md. Pervez Hossian	22000
+602	Md. Aminul Islam	20000
+705	Mehedi Hasan	18000
